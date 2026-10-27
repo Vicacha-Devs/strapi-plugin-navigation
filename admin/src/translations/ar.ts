@@ -277,7 +277,7 @@ const ar = {
         },
         preferCustomContentTypes: {
           label: 'تفضيل أنواع محتوى الواجهة البرمجية',
-          hint: 'فضّل استخدام أنواع المحتوى ذات البادئة api:: فقط',
+          hint: 'فضّل استخدام أنواع المحتوى ذات البادئة api:: أو plugin:: فقط',
         },
         contentTypes: {
           label: 'تفعيل التنقل لـ',
